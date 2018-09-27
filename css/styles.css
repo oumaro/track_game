@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    width: 100%;
+}
+.container{
+    width: 980px;
+    margin: 5px auto;
+    padding: 5px;
+    border: 1px solid black;
+}
+
+.box{
+    width: 50px;
+    height: 50px;
+    background-color: darkslategray;
+    float: left;
+    z-index: 1;
+    position: relative;
+}
+.clear{
+    clear: both;
+}
+
